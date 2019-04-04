@@ -1,0 +1,11 @@
+.Header{
+    text-align: start;
+}
+
+.text-header{
+    background: rgba(0, 0, 0, 0.596);
+    padding: 10px;
+    color: rgb(255, 255, 255);
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+    font-size: 24px;
+}

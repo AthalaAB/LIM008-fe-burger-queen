@@ -1,0 +1,87 @@
+[
+    {
+        "nombre": "Café americano",
+        "precio": 5,
+        "categoria": "Desayuno",
+        "producto": "Desayuno"
+    },
+    {
+        "nombre": "Café con leche",
+        "precio": 7,
+        "categoria": "Desayuno",
+        "producto": "Desayuno"
+    },
+    {
+        "nombre": "Sandwich de jamón y queso",
+        "precio": 10,
+        "categoria": "Desayuno",
+        "producto": "Desayuno"
+    },
+    {
+        "nombre": "Jugo de frutas natural",
+        "precio": 7,
+        "categoria": "Desayuno",
+        "producto": "Desayuno"
+    },
+    {
+        "nombre": "Hamburguesa Simple",
+        "precio": 10,
+        "categoria": "Resto del día",
+        "producto": "Hamburguesa"
+    },
+    {
+        "nombre": "Hamburguesa Doble",
+        "precio": 15,
+        "categoria": "Resto del día",
+        "producto": "Hamburguesa"
+    },
+    {
+        "nombre": "Papas fritas",
+        "precio": 5,
+        "categoria": "Resto del día",
+        "producto": "Acompañamiento"
+    },
+    {
+        "nombre": "Aros de Cebolla",
+        "precio": 5,
+        "categoria": "Resto del día",
+        "producto": "Acompañamiento"
+    },
+    {
+        "nombre": "Agua 500ml",
+        "precio": 5,
+        "categoria": "Resto del día",
+        "producto": "Para tomar"
+    },
+    {
+        "nombre": "Agua 750ml",
+        "precio": 7,
+        "categoria": "Resto del día",
+        "producto": "Para tomar"
+    },
+    {
+        "nombre": "Bebida/gaseosa 500ml",
+        "precio": 7,
+        "categoria": "Resto del día",
+        "producto": "Para tomar"
+    },
+    {
+        "nombre": "Bebida/gaseosa 750ml",
+        "precio": 10,
+        "categoria": "Resto del día",
+        "producto": "Para tomar"
+    },
+    {
+        "nombre": "queso",
+        "precio": 1,
+        "categoria": "Resto del día",
+        "producto": "Adicional"
+    },
+    {
+        "nombre": "huevo",
+        "precio": 1,
+        "categoria": "Resto del día",
+        "producto": "Adicional"
+    }
+    
+]
