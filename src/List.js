@@ -33,7 +33,7 @@ class List extends Component {
         <div className='col-5'>
             {items.map(item  => (
                 <button key = {item.id} className='btn btn-warning btn-lg col my-2'>
-                    {item.nombre}
+                    {item.nombre} S/.{item.precio}
                 </button>
             ))}
         </div>
