@@ -1,14 +1,13 @@
-import React, { Component } from 'react';
+import React, { useState } from 'react';
 
 
-class Client extends Component {
-  render() {
-    return (
-      <form>
-            <input type="text" placeholder='Ingresar nombre del cliente'></input>
-      </form>
-    );
-  }
+const Client = ()=>{
+  const [input, setInput] = useState(''); // '' is the initial state value
+  return (
+    <div>
+      <label>Please specify:</label>
+      <input value={input} onInput={e => setInput(e.target.value)}/>
+    </div>
+  )
 }
-
 export default Client;

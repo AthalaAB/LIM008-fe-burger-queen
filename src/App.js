@@ -1,10 +1,11 @@
 import React, { Component } from 'react';
-import { BrowserRouter as Router, Route, Link } from "react-router-dom";
+// import { BrowserRouter as Router, Route, Link } from "react-router-dom";
 import Header from './Header';
-import List from './List';
+import DataList from './List';
 import Nav from './Nav';
 import Client from './ClientName';
 import Order from './Pedidos';
+import CountFunction from './Count';
 import './App.css';
 
 class App extends Component {
@@ -23,10 +24,11 @@ class App extends Component {
           </nav>
           <div className='col-5'>
             <Order/>
+            <CountFunction/>
           </div>
         </div>
-        <div>
-          <List/>
+        <div className='col-5'>
+          <DataList/>
         </div>
       </div>
     );
